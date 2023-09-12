@@ -12,4 +12,4 @@ git commit -m "first commit"
 
 git remote add origin https://github.com/reshmalimkar/Jsp.git
 
-git push u origin main
+git push -u origin master
